@@ -33,3 +33,22 @@
 **Thoughts**  Was able to explore different ways of writing the sum function to achieve the same result.
 
 **Link(s) to work**  https://github.com/franklinen/100-days-of-code/blob/master/100%20days%20of%20codes/sum_numbers_function.py
+
+
+### Day 4: June 4, 2021
+
+**Today's Progress**: created a function that takes in list
+
+**Thoughts**  Was able to explore different ways of writing the sum function to achieve the same result.
+
+**Link(s) to work**  https://github.com/franklinen/100-days-of-code/blob/master/100%20days%20of%20codes/sum_numbers_function.py
+
+
+
+### Day 5: June 5, 2021
+
+**Today's Progress**: Designed a runtime function to determine average runtime for races
+
+**Thoughts**  Project accomplised as way of consolidating knowlesge in conditionals and for loops
+
+**Link(s) to work**  https://github.com/franklinen/100-days-of-code/blob/master/100%20days%20of%20codes/runtiming.py
