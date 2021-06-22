@@ -1,20 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: May 30, 2016 (Example 1)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Officially joined the challenge.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** joining a challenge is the best way to keep motivated to code often
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://twitter.com/Frankline13/status/1399097683495866375?s=20
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: June 1, 2021 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started coding with python numerical data types. Created a number guessing game
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Decided to familiriaze myself with working with the different data types of python with simple programs
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
