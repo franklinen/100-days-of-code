@@ -14,15 +14,22 @@
 
 **Thoughts**: Decided to familiriaze myself with working with the different data types of python with simple programs
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Number Guessing game](https://github.com/franklinen/100-days-of-code/blob/master/100%20days%20of%20codes/No_Guessing_game.py)
 
 
-### Day 1: June 27, Monday
+### Day 2: June 2, 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Created a sum function as a project
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** learning functions in python is critical to understanding how to deliver neat codes
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**  https://github.com/franklinen/100-days-of-code/blob/master/100%20days%20of%20codes/sum_numbers_function.py
+
+
+### Day 3: June 3, 2021
+
+**Today's Progress**: explored other ways of creating a sum function
+
+**Thoughts**  Was able to explore different ways of writing the sum function to achieve the same result.
+
+**Link(s) to work**  https://github.com/franklinen/100-days-of-code/blob/master/100%20days%20of%20codes/sum_numbers_function.py
