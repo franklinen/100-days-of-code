@@ -88,3 +88,12 @@
 **Thoughts**  Project helps to consolidate my knowledge of string manipulation using for loops.
 
 **Link(s) to work**  https://github.com/franklinen/100-days-of-code/blob/master/100%20days%20codes/ubi%20dubi%20game.py
+
+
+### Day 11: June 24, 2021
+
+**Today's Progress**: built a function for sorting a string
+
+**Thoughts**  Project helps to consolidate my knowledge of string manipulation using for loops.
+
+**Link(s) to work**  https://github.com/franklinen/100-days-of-code/blob/master/100%20days%20codes/ubi%20dubi%20game.py
