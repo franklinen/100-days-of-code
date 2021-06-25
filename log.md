@@ -96,4 +96,4 @@
 
 **Thoughts**  Project helps to consolidate my knowledge of string manipulation using for loops.
 
-**Link(s) to work**  https://github.com/franklinen/100-days-of-code/blob/master/100%20days%20codes/ubi%20dubi%20game.py
+**Link(s) to work**  https://github.com/franklinen/100-days-of-code/blob/master/100%20days%20codes/String_sort.py
